@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Max Barbosa
 
-- 📚 I’m a currently [Data Science and IA's](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) undergraduate student at [Federal University of Paraiba](https://www.ufpb.br) 🇧🇷
+- 📚 I’m currently a [Data Science and IA's](https://sigaa.ufpb.br/sigaa/public/curso/portal.jsf?id=14289031&lc=pt_BR) undergraduate student at [Federal University of Paraiba](https://www.ufpb.br) 🇧🇷
 - 🛠️ I have experience with Python3, Java, SQL, HTML, CSS and Javascript
 - 🔭 I’m currently learning [C programming language](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170)
 - 💬 Ask me about programming, technology, innovation, operating systems, linux distributions, astronomy...
