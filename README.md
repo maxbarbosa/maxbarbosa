@@ -6,11 +6,3 @@
 - 💬 Ask me about programming, technology, innovation, operating systems, linux distributions, astronomy...
 - 📫 How to reach me: [maxwel.barbosa@academico.ufpb.br](mailto:maxwel.barbosa@academico.ufpb.br)
 
-##
-
-<div align="center">
-  <a href="https://github.com/maxbarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxbarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-   ![Snake animation](https://github.com/maxbarbosa/maxbarbosa/blob/output/github-contribution-grid-snake.svg)
-</div>
